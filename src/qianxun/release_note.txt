@@ -1,0 +1,16 @@
+1. 服务类型：RTCM32, FindM, 1s播发
+2. 坐标系：WGS84
+
+
+差分账号：
+P_chennan02
+差分密码：
+2fe9500
+AppKey：
+20554
+AppSecret：
+3f0e7f9430a6cbb60e48f6b52a01e51f899dfbb37e61c2f6b040a2554a6d4973
+设备SN:
+F06
+类型：
+记录仪设备
